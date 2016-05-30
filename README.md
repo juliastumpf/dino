@@ -1,3 +1,7 @@
+http://doc.mapeditor.org <-- tiled documentation
+
+to set where the player spawns, make an object called "player"
+
 to load ur map into the game:
 
 replace source/assets/maps/test.lua with ur own map file(use tiled's file>export function to export map as lua)
